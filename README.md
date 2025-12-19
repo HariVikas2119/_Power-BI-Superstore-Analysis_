@@ -38,6 +38,10 @@ An interactive Power BI report analyzing Superstore USA sales data, customer beh
 
 ---
 
+Tools & Technologies: Power BI, DAX, Power Query, Star Schema, Data Modeling, KPI Reporting
+
+---
+
 ## 📁 Project Files
 
 | File | Description |
